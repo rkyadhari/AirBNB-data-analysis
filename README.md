@@ -20,22 +20,6 @@ import matplotlib.pyplot as plt
 
 from sklearn.metrics import mean_squared_error
 
-from sklearn.preprocessing import StandardScaler
-
-from sklearn.model_selection import train_test_split
-
-from sklearn.metrics import confusion_matrix
-
-from sklearn.linear_model import LinearRegression
-
-from sklearn.tree import DecisionTreeClassifier
-
-from sklearn.ensemble import RandomForestClassifier
-
-from sklearn.ensemble import RandomForestRegressor
-
-from sklearn.metrics import r2_score
-
 **Project Motivation**
 
 We attempt to answer the following questions with the intention to help future visitors to Seattle.
@@ -74,3 +58,5 @@ By answering the above questions, I hope to have certain data points handy for v
 ![neighborhood_Cleansed](https://user-images.githubusercontent.com/85522420/121436343-426fb980-c935-11eb-8575-b2111ecf2120.png)
 ![Price Distribution By Month of Travel](https://user-images.githubusercontent.com/85522420/121436364-4a2f5e00-c935-11eb-8b62-279516cb8425.png)
 
+
+Link to the blog Post : https://raja-kyadhari.medium.com/seattle-airbnb-data-analysis-and-price-prediction-of-listings-7885134c12c2
